@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/breathizen/sitemap.xml
+Sitemap: https://breathizen.vercel.app/sitemap-vercel.xml
+Sitemap: https://breathizen.pages.dev/sitemap-cloudflare.xml
